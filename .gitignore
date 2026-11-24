@@ -2,5 +2,7 @@
 .env
 # Ignore virtual environment directories
 venv/
-
+# Ignore the Docker for now
+docker-compose.yml
+docker-compose.override.yml
 
